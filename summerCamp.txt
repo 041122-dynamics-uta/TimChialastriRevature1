@@ -1,0 +1,12 @@
+Summer Camp
+
+Data & Logic:
+
+1. Abigail’s favorite activity isn’t rock climbing. = Abigail likes to cook, kayak, or zip-line; does not like to rock climb
+2. Oliver is afraid of heights. = Oliver likes to kayak or cook; does not like to rock climb or zip-line
+3. Rosa can’t do her favorite activity without a harness. = Rosa likes to rock climb or zip-line; does not like to cook or kayak
+4. Blake likes to keep his feet on the ground at all times. = Blake likes to cook; does not like the other 3 activities
+5. If cook is ruled out to Blake, then that means Oliver likes to kayak.
+6. If kayak is ruled out to Oliver, then that means Abigail likes to zip-line.
+7. If zip-line is ruled out to Abigail, then that means Rosa is left with the last activity, rock climb.
+8. Therefore favorite activities are: Abigail = zip-line, Oliver = kayak, Rosa = rock climb, and Blake = cook

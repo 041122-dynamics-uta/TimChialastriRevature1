@@ -1,0 +1,20 @@
+1. Name Table = Tallest In Neighborhood
+2. List names of kids
+Leisha, Benito, Delia, Charlotte, Weldon, Zina
+3. List subgroup in order (based on new data)
+Zina (is taller than)
+	Weldon (is taller than)
+		Delia
+4. List 2nd subgroup (based on new data)
+
+	Leisha (is taller than)(but shorter than Delia, Weldon)
+		Benito
+5. Add Charlotte below Benito
+6. Insert 2nd sub group below = Delia
+7. Final list from tallest to shortest:
+Zina
+Weldon
+Delia
+Leisha
+Benito
+Charlotte

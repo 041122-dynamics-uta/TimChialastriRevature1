@@ -1,0 +1,12 @@
+1. List all names
+Allegra, Ben, Clara, Flora, Zach
+2. List all allergies
+Pollen, Shellf, beeSt, Cats, Nuts
+3. Flora - pollen (true)
+4. All others pollen = false
+5. Ben = false (cats)
+6. Allegra = false (nuts) (beeSt)
+7. Clara = true (cats)
+8. Ben = true (beeSt)
+9. Allegra = true (shellF)
+10. Zach = true (cats)

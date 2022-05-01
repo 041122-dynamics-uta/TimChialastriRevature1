@@ -1,0 +1,19 @@
+    // Complete the catAndMouse function below.
+
+    static string catAndMouse(int x, int y, int z) {
+        int a = Math.Abs(x - z);
+        int b = Math.Abs(y - z);
+        if (a > b)
+        {
+            return "Cat B";
+        } 
+        else if (a < b)
+        {
+            return "Cat A";
+        }
+        else {
+            return "Mouse C";
+        }
+
+
+    }

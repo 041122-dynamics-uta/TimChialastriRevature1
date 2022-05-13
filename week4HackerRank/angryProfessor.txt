@@ -1,0 +1,11 @@
+public static string angryProfessor(int k, List<int> a)
+    {
+        int onTime = 0;
+        for (int i = 0; i < a.Count; i++) {
+            if (a[i] <= 0){
+                onTime++;
+            }
+        }
+        return ((onTime >= k) ? "NO" : "YES");
+
+    }
